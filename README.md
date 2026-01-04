@@ -1,0 +1,79 @@
+# Avicii – Lonely Together (feat. Rita Ora)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.13] It's you and your world
+[00:10.13] And I'm caught in the middle
+[00:13.57] I caught the edge of a knife
+[00:14.82] And it hurts just a little
+[00:18.23] And I know, and I know, and I know
+[00:20.14] And I know that I can't be your friend
+[00:22.93] It's my head or my heart
+[00:24.19] And I'm caught in the middle
+[00:38.19] 
+[00:27.69] My hands are tied, but not tight enough
+[00:30.09] You're the high that I can't give up
+[00:32.46] Oh lord, here we go
+[00:41.96] 
+[00:36.46] I might hate myself tomorrow
+[00:38.93] But I'm on my way tonight
+[00:41.24] At the bottom of a bottle
+[00:43.54] You're the poison in the wine
+[00:45.82] And I know
+[00:46.87] I can't change you, and I
+[00:49.08] I won't change
+[00:50.50] I might hate myself tomorrow
+[00:52.84] But I'm on my way tonight
+[01:05.34] 
+[00:54.90] Let's be lonely together
+[00:59.27] A little less lonely together
+[01:13.77] 
+[01:04.96] Eyes wide shut and it feels like the first time (Oh)
+[01:09.47] Before the rush to my blood
+[01:10.67] Was too much and we flatlined (Oh)
+[01:14.03] And I know, and I know, and I know
+[01:16.00] And I know just how this ends
+[01:18.83] Now I'm all messed up
+[01:20.10] And it feels like the first time (Oh)
+[01:38.60] 
+[01:23.32] I might hate myself tomorrow
+[01:25.53] But I'm on my way tonight
+[01:27.74] At the bottom of a bottle
+[01:30.14] You're the poison in the wine
+[01:32.31] And I know
+[01:33.46] I can't change you, and I
+[01:35.68] I won't change
+[01:37.26] I might hate myself tomorrow
+[01:39.49] But I'm on my way tonight
+[01:51.99] 
+[01:41.47] Let's be lonely together
+[01:45.85] A little less lonely together
+[01:50.78] Let's be lonely together
+[01:55.14] A little less lonely together
+[02:09.64] 
+[02:00.92] My hands are tied, but not tight enough
+[02:03.32] You're the high that I can't give up
+[02:05.78] Oh lord, here we go
+[02:15.28] 
+[02:09.87] I might hate myself tomorrow
+[02:12.24] But I'm on my way tonight
+[02:14.47] At the bottom of a bottle
+[02:16.75] You're the poison in the wine
+[02:19.04] And I know
+[02:20.10] I can't change you, and I
+[02:22.26] I won't change
+[02:23.71] I might hate myself tomorrow
+[02:26.07] But I'm on my way tonight
+[02:38.57] 
+[02:28.14] Let's be lonely together
+[02:32.49] A little less lonely together
+[02:37.31] Let's be lonely together
+[02:38.04] (Let's be lonely lonely now)
+[02:40.82] (Let's be lonely lonely now)
+[02:54.82] 
+[02:42.32] A little less lonely together
+[02:46.56] A little less lonely now
+[02:51.16] A little less lonely now
+[02:55.75] A little less lonely now
+```
