@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Lonely Together (feat. Rita Ora)",
+  "base_artist": "Avicii",
+  "createdAt": "2026-01-04T14:50:12.238246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/01_Lonely_Together_(feat._Rita_Ora)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_Lonely_Together_(feat._Rita_Ora)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/03_Lonely_Together_(feat._Rita_Ora)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lonely Together [feat. Rita Ora]",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/04_Lonely_Together_[feat._Rita_Ora]_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/05_Lonely_Together_(feat._Rita_Ora)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/06_Lonely_Together_(feat._Rita_Ora)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lonely Together feat. Rita Ora",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/07_Lonely_Together_feat._Rita_Ora_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. RITA ORA)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/08_Lonely_Together_(feat._RITA_ORA)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "02. Lonely Together (feat. RITA ORA)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/09_02._Lonely_Together_(feat._RITA_ORA)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/10_Lonely_Together_(feat._Rita_Ora)_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Rita Ora",
+      "has_synced": true,
+      "path": "select/11_Lonely_Together_(feat._Rita_Ora)_Rita_Ora.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/12_Lonely_Together_(feat._Rita_Ora)_Verschiedene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely Together (feat. Rita Ora)",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_Together_(feat._Rita_Ora)_Avicii.txt"
+    }
+  ]
+}
